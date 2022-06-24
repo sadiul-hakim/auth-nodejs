@@ -1,1 +1,1 @@
-# This is Decentralized Applications User Authentication Program
+# This is User Authentication Program
